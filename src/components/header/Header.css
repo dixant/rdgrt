@@ -1,0 +1,30 @@
+header {
+    padding: 20px;
+    background-color: #000;
+    display: flex;
+    justify-content: space-between;
+    color: #fff;
+}
+.left-header {
+    display: flex;
+    align-items: flex-end;
+}
+.logo {
+    height: 4rem;
+}
+.brand-name {
+    font-size: 3rem;
+    color: #fff;
+    padding-left: 10px;
+}
+.mid-header {
+    align-self: center;
+    color: #28aded;
+    font-size: 3rem;
+    font-weight: 700;
+}
+.right-header {
+    float: right;
+    align-self: flex-start;
+    color: #ccc
+}
